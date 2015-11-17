@@ -1,1 +1,21 @@
 
+body 
+{ padding-top: 70px; }
+
+.nav-links li{
+list-style-type: none;
+ margin: 0px auto;
+padding: 25px;
+  display: inline;
+ 
+}
+.Container {
+ 
+}
+.jumbotron {
+background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12250051_10205580270570725_7429132293279520693_n.jpg?oh=f6c08c8ddc45febc40e9612e373a2dfd&oe=56B12B8B");
+background-size: contain;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+<!-- end of home page -->
