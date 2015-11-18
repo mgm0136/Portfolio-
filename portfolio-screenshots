@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--  Below is link for code -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+
+ <body>
+
+<!-- NavBar with contact info/online presence -->
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+    <div class="row">
+            <ul class="nav-links">
+       <a href="#"><li class="current-link">Home</li></a>
+               <a href="#"><li>Portfolio</li></a>
+               <a href="#"><li>Blog</li></a>
+               <a href="#"><li>Contact</li></a>
+             <li>
+              <a href="mailto:MGM0136@GMAIL.COM" target="_blank">
+                <i class="fa fa-envelope-o fa-3x"></i></a></li>
+        <li><a href="https://twitter.com/OldMansAdventur" target=_"blank">       
+<i class="fa fa-twitter-square fa-3x"></i>
+               </a></li>
+   <li><a href="https://www.facebook.com/marcellusmay" target=_"blank">      
+     <i class="fa fa-facebook-official fa-3x"></i></a></li>
+               <li><a href="https://github.com/mgm0136" target=_"blank">   <i class="fa fa-github fa-3x"></i>
+        </a></li>
+
+      </ul></div></div>
+                    </nav>  </div>
+<!--Page header -->
+  <div class="page-header">
+  <h1>Portfolio Screenshots</h1>
+</div
+  
+<!-- Jumbotron to hold all the content. The container below is for full width -->
+  <div class="container text-center">
+    <div class="row">
+  <div class="col-xs-6 col-md-4">
+  <img src="http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627" class="img-circle" alt="Cinque Terre" width="350" height="350">  <a href="#" class="btn btn-info" role="button">Link Button</a>
+
+</div>
+<div class="col-xs-6 col-md-4">  <img src=http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627 class="img-circle" alt="Cinque Terre" width="350" height="350">  <a href="#" class="btn btn-info" role="button">Link Button</a>
+
+</div>
+<div class="col-xs-6 col-md-4">
+              <img src="http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627" class="img-circle" alt="Cinque Terre" width="350" height="350">   <a href="#" class="btn btn-info" role="button">Link Button</a>
+
+
+    </div></div></div>
+    <div class="container text-center">
+    <div class="row" id="second-row">
+<div class="col-xs-6 col-md-4">
+             <img src="http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627" class="img-circle" alt="Cinque Terre" width="350" height="350"> 
+  <a href="#" class="btn btn-info" role="button">Link Button</a>
+</div>
+<div class="col-xs-6 col-md-4">
+              <img src="http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627" class="img-circle" alt="Cinque Terre" width="350" height="350"> 
+  <a href="#" class="btn btn-info" role="button">Link Button</a>
+</div>
+<div class="col-xs-6 col-md-4">
+             <img src="http://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1512274_10204521990074374_8638185648500224302_n.jpg?oh=3546020c7091fd33ac1ea6235d740a63&oe=56F11627" class="img-circle" alt="Cinque Terre" width="350" height="350"> 
+  <a href="#" class="btn btn-info" role="button">Link Button</a>
+</div>
+  </div></div></div>
+  
+      <!--div cont, jumbo, row --></div> </div></div>
+<!-- Random Progress I came up with. -->
+<div class="container" id="bottom-container"> 
+    <div class="jumbotron" id="bottom-jumbotron">
+   <h3 class="Web-dev-progress">Web Developer Progress</h3>
+ <div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">65%
+   </div> </div>
+</div>   
+  </body>   
+<footer>   
+  <p>&copy; 2015 Marcellus May </p></footer>
+
