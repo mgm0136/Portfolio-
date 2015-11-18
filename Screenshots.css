@@ -1,0 +1,40 @@
+body { 
+  padding-top: 70px; }
+h1 {
+  text-align: center;
+}
+.nav-links li{
+list-style-type: none;
+ margin: 0px auto;
+padding: 25px;
+  display: inline;
+ 
+}
+
+col-xs-6 {
+  text-algin: center;
+  
+}
+.container-fluid {
+   padding: 20px;
+  text-align: center;
+
+}
+a.btn.btn-info {
+  margin: 20px;
+  
+}
+
+#second-row{
+  padding-top: 50px;
+}
+
+#bottom-container {
+  margin-top: 60px;
+}
+
+#bottom-jumbotron {
+    margin-top: 60px;
+
+  
+}
